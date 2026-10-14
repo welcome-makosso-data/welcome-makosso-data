@@ -6,6 +6,6 @@
 
 📚 Actuellement : L1 Admin BDD - Bases Algo, Excel, Merise, SQL
 
-📈 Roadmap 2026-2029 : L1 -> L3 -> CDI Data
+📈 Roadmap 2026-2029 : formation, projets pratiques, stages et développement progressif de compétences en analyse de données.
 
 🔗 LinkedIn : linkedin.com/in/welcome-makosso-data

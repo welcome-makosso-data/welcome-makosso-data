@@ -4,7 +4,7 @@
 
 🎯 Objectif : Data Analyst
 
-📚 Actuellement : Étudiant en Admin BDD - Bases Algo, Excel, Merise, SQL
+📚 Actuellement : Étudiant en Génie informatique - Bases Algo, Excel, Merise, SQL
 
 📈 Roadmap 2026-2029 : formation, projets pratiques, stages et développement progressif de compétences en analyse de données.
 
